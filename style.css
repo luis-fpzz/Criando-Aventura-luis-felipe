@@ -1,0 +1,18 @@
+body {
+    background-color: indigo;
+    color: white;
+    font-family: "Oswald", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+}
+
+
+button {
+    background-color: rgb(132, 0, 255);
+    color: aliceblue;
+    font-family: "Oswald", sans-serif;
+}
+
